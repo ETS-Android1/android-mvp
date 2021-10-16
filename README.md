@@ -1,5 +1,6 @@
 # Android MVP Architecture: Sample App
 From : https://github.com/MindorksOpenSource/android-mvp-architecture
+<br>
 [![Mindorks](https://img.shields.io/badge/mindorks-opensource-blue.svg)](https://mindorks.com/open-source-projects)
 [![Mindorks Community](https://img.shields.io/badge/join-community-blue.svg)](https://mindorks.com/join-community)
 
